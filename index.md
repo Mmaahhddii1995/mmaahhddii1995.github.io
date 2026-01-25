@@ -1,16 +1,17 @@
 ---
-layout: about
+layout: home
 title: "Mahdi Rahimi"
-permalink: /
 ---
 
-# Welcome
+{% include sidebar.html %}
 
-I am a PhD researcher at **COSIC, KU Leuven**, working on:
-
-- Anonymous Communications (mixnets)  
-- Privacy-Preserving Systems  
-- Applied Cryptography
-
-You can contact me at: **mahdi.rahimi@esat.kuleuven.be**
-
+<div id="main-content">
+  <h1>Welcome</h1>
+  <p>I am a PhD researcher at <strong>COSIC, KU Leuven</strong>, working on:</p>
+  <ul>
+    <li>Anonymous Communications (mixnets)</li>
+    <li>Privacy-Preserving Systems</li>
+    <li>Applied Cryptography</li>
+  </ul>
+  <p>You can contact me at: <strong>mahdi.rahimi@esat.kuleuven.be</strong></p>
+</div>
