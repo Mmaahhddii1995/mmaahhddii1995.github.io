@@ -20,8 +20,8 @@ compromise mixnodes after the LARMix routing policy has been
 computed.'
 date: 2024-2-26
 venue: 'Network and Distributed System Security (NDSS) Symposium'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+slidesurl: 'http://academicpages.github.io/files/LARMix_slides.pdf'
+paperurl: 'http://academicpages.github.io/files/LARMix_paper.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'M. Rahimi, P. Kumar, and C. Díaz, “LARMix: Latency-Aware Routing in Mix Networks,” in NDSS 2024: 31st Symposium on Network and Distributed System Security, Internet Society.'
 ---
