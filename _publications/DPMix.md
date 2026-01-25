@@ -24,7 +24,7 @@ selection process—without weakening privacy guarantees—to
 prevent the over-selection of particular nodes, which could
 otherwise lead to security vulnerabilities or network congestion.'
 date: 2025-12-20
-venue: 'Network and Distributed System Security (NDSS) Symposium'
+venue: 'Annual Computer Security Applications Conference (ACSAC)'
 slidesurl: 'http://mmaahhddii1995.github.io/files/DP_Mix_slides.pdf'
 paperurl: 'http://mmaahhddii1995.github.io/files/DP_Mix_paper.pdf'
 bibtexurl: 'http://mmaahhddii1995.github.io/files/DP_Mix_bib.bib'
