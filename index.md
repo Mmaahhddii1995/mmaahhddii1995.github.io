@@ -1,6 +1,5 @@
 
 
-# Welcome
 
 I am a PhD researcher at **COSIC, KU Leuven**, working on:
 
