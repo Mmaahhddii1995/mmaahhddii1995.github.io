@@ -10,7 +10,7 @@ cations in secure and decentralized systems.'
 date: 2025-6-28
 venue: 'Applied Cryptography and Network Security (ACNS)'
 slidesurl: 'http://mmaahhddii1995.github.io/files/PVSS_slides.pdf'
-paperurl: 'http://mmaahhddii1995.github.io/files/PVSS_paper.pdf'
+paperurl: 'http://mmaahhddii1995.github.io/files/PVSS.pdf'
 bibtexurl: 'http://mmaahhddii1995.github.io/files/PVSS_bib.bib'
 citation: 'Baghery, Karim, Noah Knapen, Georgio Nicolas, and Mahdi Rahimi. "Pre-constructed publicly verifiable secret sharing and applications." In International Conference on Applied Cryptography and Network Security, pp. 89-119. Cham: Springer Nature Switzerland, 2025.'
 ---
