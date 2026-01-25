@@ -1,0 +1,15 @@
+---
+title: "PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks"
+collection: publications
+category: conferences
+permalink: /publication/PARSAN_Mix.md
+excerpt: 'Mix networks (mix-nets) offer strong anonymity by routing client packets through intermediary hops, where they are shuffled with other packets to obscure their origins from a global adversary monitoring all communication exchanges. However, this anonymity is achieved at the expense of increased end-to-end latency, as packets traverse multiple hops (incurring routing delays) and experience additional delays at each hop for shuffling purposes. Consequently, the overall latency for delivering a message—comprising multiple packets—is determined by the packet with the highest combined routing and shuffling delay, which can significantly degrade the client experience, particularly in latency-sensitive applications.
+To address this issue, our work first derives the theoretical statistics of the total latency experienced by a message, revealing a clear correlation between latency and the number of packets. Second, we propose two approaches to reduce this total latency. First, we present a method to adjust the shuffling delays at each hop, offsetting potential anonymity loss by integrating client-generated noise, backed by differential privacy guarantees. Next, we introduce packet-aware routing techniques, offering two novel methods that prioritize messages with more packets, forwarding them through faster links. However, this may cause certain nodes to be overloaded with disproportionate traffic. To solve this, we third introduce an efficient load-balancing algorithm to redistribute traffic without compromising the packet-aware nature of the routing. Finally, through comprehensive analytical and simulation experiments, we validate our theoretical latency bounds and evaluate the efficacy of our latency management strategies. The results confirm both methods substantially reduce latency with minimal impact on anonymity, while the strategic routing method remains robust against advanced adversarial attacks.'
+date: 2025-6-30
+venue: 'Applied Cryptography and Network Security (ACNS)'
+slidesurl: 'http://mmaahhddii1995.github.io/files/PARSAN_Mix_slides.pdf'
+paperurl: 'http://mmaahhddii1995.github.io/files/PARSAN_Mix_paper.pdf'
+bibtexurl: 'http://mmaahhddii1995.github.io/files/PARSAN_Mix_bib.bib'
+citation: 'Rahimi, Mahdi. "PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks." In International Conference on Applied Cryptography and Network Security, pp. 159-188. Cham: Springer Nature Switzerland, 2025.'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
