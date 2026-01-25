@@ -22,15 +22,12 @@ remote_theme: "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "profile.png"
-  name             : "Mahdi Rahimi"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Academic researcher in anonymous communications, privacy-preserving systems, and applied cryptography."
   location         : "Leuven, Belgium"
   employer         : "COSIC, KU Leuven"
-  uri              : # URL
-  email            : "mahdi.rahimi@esat.kuleuven" 
+  email            : "mahdi.rahimi@esat.kuleuven.be"
+
 
   # Academic websites
   academia         : # URL
