@@ -10,7 +10,7 @@ post-quantum secure threshold protocols, such as distributed key generation prot
 threshold signature schemes.'
 date: 2025-8-25
 venue: 'IACR Communications in Cryptology (CIC)'
-slidesurl: 'http://academicpages.github.io/files/VSS_paper.pdf'
+slidesurl: 'http://academicpages.github.io/files/VSS.pdf'
 paperurl: 'http://academicpages.github.io/files/VSS_slides.pdf'
 bibtexurl: 'http://academicpages.github.io/files/VSS_bib.bib'
 citation: 'K. Baghery, N. G. Bardeh, S. Khazaei, and M. Rahimi, “On Round-Optimal Computational VSS,” in Communications in Cryptology (CiC), 2025.'
