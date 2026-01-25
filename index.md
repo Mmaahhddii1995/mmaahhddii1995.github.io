@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: about
 title: "Mahdi Rahimi"
+permalink: /
 ---
 
 # Welcome
