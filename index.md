@@ -1,7 +1,3 @@
----
-layout: home
-title: "Mahdi Rahimi"
----
 
 {% include sidebar.html %}
 
