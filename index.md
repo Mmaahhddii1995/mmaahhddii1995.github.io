@@ -1,4 +1,4 @@
-# Mahdi Rahimi
+
 
 ## About
 Mahdi Rahimi is currently in the final year of his PhD, which he began in June 2021 under the supervision of **Prof. Claudia Diaz** at **KU Leuven**, within the **COSIC research group**. His research focuses on the practicality and security of **anonymous communication systems**, particularly **mix networks (mixnets)**, as well as broader topics in **privacy-preserving systems** and **applied cryptography**.
@@ -62,11 +62,11 @@ Responsibilities include organizing exercise sessions, supervising and mentoring
 
 ---
 ## Recent News
-  ## December 2025
+  ### December 2025
 - **Presented Paper:**  
   "DP-Mix: Differentially Private Routing in Mix Networks" at the 41st ACSAC, Hawaii, December 2025.
 
-  ## June 2025
+  ### June 2025
 - **Award:**  
   Paper "PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks" received the **Best Student Paper Award** at ACNS 2025, Munich.
 
