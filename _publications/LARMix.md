@@ -1,6 +1,4 @@
 ---
-title: "LARMix"
-published: true
 layout: none
 ---
 
