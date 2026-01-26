@@ -160,7 +160,6 @@ Network Computing and Applications (NCA)**, 2024.
    [Presentation](https://youtu.be/LuaSF_4Qc1s?si=gelbospUPXHBAdbT)
 
 4. **Low-Latency Routing in Mix Networks**, University of Cambridge  
-   [Slides](https://mmaahhddii1995.github.io/files/Cam.pdf) ·
    [Presentation](https://www.cl.cam.ac.uk/research/security/seminars/archive/video/2024-09-20-t221419.htm)
 
 5. **MALARIA: Management of Low-Latency Routing Impact on Mix Network Anonymity**, NCA 2024  
