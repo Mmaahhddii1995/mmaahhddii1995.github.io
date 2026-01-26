@@ -4,6 +4,7 @@ title: "Students & Supervision"
 permalink: /students/
 ---
 
+
 ## Master's Thesis Supervision
 - **Noah Knapen**, *On Publicly Verifiable Secret Sharing Schemes and Applications*,  
   COSIC, Department of Electrical Engineering (ESAT), KU Leuven, Belgium, **2023–2024**
@@ -39,16 +40,45 @@ permalink: /students/
 - **Advanced Privacy**, COSIC, KU Leuven  
   *Winter 2023, 2024, 2025, 2026* (partial lecturer)
 
-### Teaching Assistant
-- **Basic Cybersecurity**, Master of Cybersecurity, COSIC, KU Leuven  
-- **Privacy and Big Data**, Master of Cybersecurity, COSIC, KU Leuven  
-- **Privacy Technologies**, Master of Cybersecurity, COSIC, KU Leuven  
-- **Advanced Privacy**, Master of Cybersecurity, COSIC, KU Leuven  
+---
 
-*2021–2026*:  
+### Teaching Assistant — KU Leuven
+**COSIC, Master of Cybersecurity**, **2021–2026**
+
+Courses:
+- Basic Cybersecurity  
+- Privacy and Big Data  
+- Privacy Technologies  
+- Advanced Privacy  
+
 Responsibilities include organizing exercise sessions, supervising and mentoring students, and grading assignments and exams.
 
 ---
 
+### Teaching Assistant — Iran
+
+- **Spring 2020** — *Teaching Assistant in Machine Learning*  
+  EE Department, Sharif University of Technology, Tehran, Iran
+
+- **Spring 2020** — *Teaching Assistant in Advanced Cryptography*  
+  EE Department, Sharif University of Technology, Tehran, Iran
+
+- **Fall 2019** — *Teaching Assistant in Cryptography*  
+  EE Department, Sharif University of Technology, Tehran, Iran
+
+- **2017–Present** — *Teaching Assistant in Numerical Analysis*  
+  EE Department, K. N. Toosi University of Technology, Tehran, Iran
+
+- **2018–2019** — *Teaching Assistant in Discrete Signal Processing*  
+  EE Department, K. N. Toosi University of Technology, Tehran, Iran
+
+- **Spring 2018** — *Teaching Assistant in Signals and Systems*  
+  EE Department, K. N. Toosi University of Technology, Tehran, Iran
+
+- **Fall 2017** — *Teaching Assistant in Engineering Probability*  
+  EE Department, K. N. Toosi University of Technology, Tehran, Iran
+
+---
+
 ## Academic Service & Events
-- **October 2025**: Poster presentation to the *International Strategic Advisory Board* during the review of the **Cybersecurity Research Program Flanders (CRPF)** at COSIC
+- **October 2025** — Poster presentation to the *International Strategic Advisory Board* during the review of the **Cybersecurity Research Program Flanders (CRPF)** at COSIC
