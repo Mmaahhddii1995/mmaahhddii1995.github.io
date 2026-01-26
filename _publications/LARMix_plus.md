@@ -9,6 +9,6 @@ venue: 'International Conference on Cryptology and Network Security (CANS)'
 slidesurl: 'http://mmaahhddii1995.github.io/files/LARMix_plus_slides.pdf'
 paperurl: 'http://mmaahhddii1995.github.io/files/LARMix_plus_paper.pdf'
 bibtexurl: 'http://mmaahhddii1995.github.io/files/LARMix_plus_bib.bib'
-citation: 'Rahimi, Mahdi. "Larmix++: Latency-aware routing in mix networks with free routes topology." In International Conference on Cryptology and Network Security, pp. 187-211. Singapore: Springer Nature Singapore, 2024.'
+citation: 'M. Rahimi, "LARMix++: Latency-Aware Routing in Mix Networks with Free Routes Topology." In International Conference on Cryptology and Network Security, pp. 187-211. Singapore: Springer Nature Singapore, 2024.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
