@@ -1,4 +1,3 @@
-# Mahdi Rahimi
 
 ### About
 Mahdi Rahimi is currently in the final year of his PhD, which he began in June 2021 under the supervision of **Prof. Claudia Diaz** at **KU Leuven**, within the **COSIC research group**. His research focuses on the practicality and security of **anonymous communication systems**, particularly **mix networks (mixnets)**, as well as broader topics in **privacy-preserving systems** and **applied cryptography**.
