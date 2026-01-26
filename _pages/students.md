@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: archive
 title: "Students & Supervision"
 permalink: /students/
 ---
