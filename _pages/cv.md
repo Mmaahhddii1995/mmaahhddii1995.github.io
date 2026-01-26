@@ -152,7 +152,7 @@ Network Computing and Applications (NCA)**, 2024.
    [Presentation](https://www.youtube.com/watch?v=VdxLyab9d6k)
 
 2. **CLAM: Client-Aware Routing in Mix Networks**, IHMMSec 2024  
-   [Slides](https://mmaahhddii1995.github.io/files/CLAM_slides.pdf) ·
+   [Slides](https://mmaahhddii1995.github.io/files/CLAM_slides.pdf) 
 
 
 3. **LARMix++: Latency-Aware Routing in Mix Networks with Free Routes Topology**, CANS 2024  
@@ -160,10 +160,10 @@ Network Computing and Applications (NCA)**, 2024.
    [Presentation](https://youtu.be/LuaSF_4Qc1s?si=gelbospUPXHBAdbT)
 
 4. **Low-Latency Routing in Mix Networks**, University of Cambridge  
-   [Presentation](https://www.cl.cam.ac.uk/research/security/seminars/archive/video/2024-09-20-t221419.htm)
+   [Presentation](https://youtu.be/SPpYGZ8Rll8)
 
 5. **MALARIA: Management of Low-Latency Routing Impact on Mix Network Anonymity**, NCA 2024  
-   [Slides](https://mmaahhddii1995.github.io/files/MALARIA_slides.pdf) ·
+   [Slides](https://mmaahhddii1995.github.io/files/MALARIA_slides.pdf) 
 
 
 6. **LAMP: Lightweight Approaches for Latency Minimization in Mixnets**, NDSS 2025  
