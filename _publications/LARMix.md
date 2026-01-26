@@ -23,6 +23,7 @@ venue: 'Network and Distributed System Security (NDSS) Symposium'
 slidesurl: 'http://mmaahhddii1995.github.io/files/LARMix_slides.pdf'
 paperurl: 'http://mmaahhddii1995.github.io/files/LARMix_paper.pdf'
 bibtexurl: 'http://mmaahhddii1995.github.io/files/LARMix_bib.bib'
+videourl: 'https://youtu.be/VdxLyab9d6k?si=Nve5wt0T69JrhqF0'
 citation: 'M. Rahimi, P. Kumar, and C. Díaz, “LARMix: Latency-Aware Routing in Mix Networks,” in NDSS 2024: 31st Symposium on Network and Distributed System Security, Internet Society.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
