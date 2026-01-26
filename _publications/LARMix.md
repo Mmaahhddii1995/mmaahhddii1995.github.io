@@ -1,4 +1,12 @@
 ---
+title: "LARMix"
+published: true
+layout: none
+---
+
+
+
+---
 title: "LARMix: Latency-Aware Routing in Mix Networks"
 collection: publications
 category: conferences
