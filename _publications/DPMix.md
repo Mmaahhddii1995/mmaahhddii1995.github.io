@@ -28,8 +28,8 @@ venue: 'Annual Computer Security Applications Conference (ACSAC)'
 slidesurl: 'http://mmaahhddii1995.github.io/files/DP_Mix_slides.pdf'
 paperurl: 'http://mmaahhddii1995.github.io/files/DP_Mix_paper.pdf'
 bibtexurl: 'http://mmaahhddii1995.github.io/files/DP_Mix_bib.bib'
-artifacturl:'https://github.com/DPMix/DP-Mix'
-videourl:'https://youtu.be/K4gEQw0qYNw'
+artifacturl: 'https://github.com/DPMix/DP-Mix'
+videourl: 'https://youtu.be/K4gEQw0qYNw'
 citation: 'M. Rahimi, “DP-Mix: Differentially Private Routing in Mix Networks,” to appear in ACSAC 2025: 41st Annual Computer Security Applications Conference, IEEE.  '
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
