@@ -132,6 +132,7 @@ Network Computing and Applications (NCA)**, 2024.
   [BibTeX](http://mmaahhddii1995.github.io/files/MOCHA_bib.bib)
   
 ---
+
 ### Journal Publications
 
 - **K. Baghery, N. G. Bardeh, S. Khazaei, and M. Rahimi**,  
@@ -143,53 +144,44 @@ Network Computing and Applications (NCA)**, 2024.
 ---
 
 
-### Journal Articles
-
-- **K. Baghery, N. G. Bardeh, S. Khazaei, M. Rahimi**,  
-  *On Round-Optimal Computational Verifiable Secret Sharing*,  
-  **IACR Communications in Cryptology (CiC)**, 2025.  
-  [Paper](http://academicpages.github.io/files/VSS.pdf)
-
-
----
 
 ## Talks & Presentations
 
 1. **LARMix: Latency-Aware Routing in Mix Networks**, NDSS 2024  
-   [Slides](https://mmaahhddii1995.github.io/files/LARMix_NDSS24_slides.pdf) ·
-   [Presentation](https://mmaahhddii1995.github.io/talks/LARMix_NDSS24.html)
+   [Slides](https://mmaahhddii1995.github.io/files/LARMix_slides.pdf) ·
+   [Presentation](https://www.youtube.com/watch?v=VdxLyab9d6k)
 
 2. **CLAM: Client-Aware Routing in Mix Networks**, IHMMSec 2024  
-   [Slides](https://mmaahhddii1995.github.io/files/CLAM_IHMMSec24_slides.pdf) ·
-   [Presentation](https://mmaahhddii1995.github.io/talks/CLAM_IHMMSec24.html)
+   [Slides](https://mmaahhddii1995.github.io/files/CLAM_slides.pdf) ·
+
 
 3. **LARMix++: Latency-Aware Routing in Mix Networks with Free Routes Topology**, CANS 2024  
-   [Slides](https://mmaahhddii1995.github.io/files/LARMixpp_CANS24_slides.pdf) ·
-   [Presentation](https://mmaahhddii1995.github.io/talks/LARMixpp_CANS24.html)
+   [Slides](https://mmaahhddii1995.github.io/files/LARMix_plus_slides.pdf) ·
+   [Presentation](https://youtu.be/LuaSF_4Qc1s?si=gelbospUPXHBAdbT)
 
 4. **Low-Latency Routing in Mix Networks**, University of Cambridge  
-   [Slides](https://mmaahhddii1995.github.io/files/Cambridge_Mixnets_slides.pdf) ·
-   [Presentation](https://mmaahhddii1995.github.io/talks/Cambridge_Mixnets.html)
+   [Slides](https://mmaahhddii1995.github.io/files/Cam.pdf) ·
+   [Presentation](https://www.cl.cam.ac.uk/research/security/seminars/archive/video/2024-09-20-t221419.htm)
 
 5. **MALARIA: Management of Low-Latency Routing Impact on Mix Network Anonymity**, NCA 2024  
-   [Slides](https://mmaahhddii1995.github.io/files/MALARIA_NCA24_slides.pdf) ·
-   [Presentation](https://mmaahhddii1995.github.io/talks/MALARIA_NCA24.html)
+   [Slides](https://mmaahhddii1995.github.io/files/MALARIA_slides.pdf) ·
+
 
 6. **LAMP: Lightweight Approaches for Latency Minimization in Mixnets**, NDSS 2025  
-   [Slides](https://mmaahhddii1995.github.io/files/LAMP_NDSS25_slides.pdf) ·
-   [Presentation](https://mmaahhddii1995.github.io/talks/LAMP_NDSS25.html)
+   [Slides](https://mmaahhddii1995.github.io/files/LAMP_slides.pdf) ·
+   [Presentation](https://www.youtube.com/watch?v=wxSrF8zcu9E)
 
 7. **MOCHA: Mixnet Optimization Considering Honest Client Anonymity**, IHMMSec 2025  
-   [Slides](https://mmaahhddii1995.github.io/files/MOCHA_IHMMSec25_slides.pdf) ·
-   [Presentation](https://mmaahhddii1995.github.io/talks/MOCHA_IHMMSec25.html)
+   [Slides](https://mmaahhddii1995.github.io/files/MOCHA_slides.pdf) ·
+   [Presentation](https://www.youtube.com/watch?v=apVLTlbIr8I)
 
 8. **PARSAN-Mix**, ACNS 2025  
-   [Slides](https://mmaahhddii1995.github.io/files/PARSAN_ACNS25_slides.pdf) ·
-   [Presentation](https://mmaahhddii1995.github.io/talks/PARSAN_ACNS25.html)
+   [Slides](https://mmaahhddii1995.github.io/files/PARSAN_Mix_slides.pdf) ·
+   [Presentation](https://www.youtube.com/watch?v=5KjB58Cxo5Y)
 
 9. **DP-Mix: Differentially Private Routing in Mix Networks**, ACSAC 2025  
-   [Slides](https://mmaahhddii1995.github.io/files/DPMix_ACSAC25_slides.pdf) ·
-   [Presentation](https://mmaahhddii1995.github.io/talks/DPMix_ACSAC25.html)
+   [Slides](https://mmaahhddii1995.github.io/files/DP_Mix_slides.pdf) ·
+   [Presentation](https://youtu.be/K4gEQw0qYNw)
 
 ---
 
