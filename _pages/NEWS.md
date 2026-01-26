@@ -12,8 +12,11 @@ permalink: /NEWS/
 
 ## June 2025
 - **Award:**  
-  Paper "PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks" received the **Best Student Paper Award** at ACNS 2025, Munich.  
-  ![PARSAN-Mix Award](http://mmaahhddii1995.github.io/files/files/ACNS2025.jpg)
+  Paper "PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks" received the **Best Student Paper Award** at ACNS 2025, Munich.
+
+![ACNS2025](https://github.com/user-attachments/assets/5b6238b3-2ed7-4030-9305-22d96433cbc0)
+
+
 
 ## February 2025
 - **Presented Paper:**  
