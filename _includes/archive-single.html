@@ -14,21 +14,24 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-
+    
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
       </div>
     {% endif %}
 
+    <!-- Title as plain text, not clickable -->
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.layout != 'none' and post.url %}
-        <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
-      {% else %}
-        {{ title }}
-      {% endif %}
+      {{ title }}
     </h2>
-
+    
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -38,10 +41,8 @@
     {% elsif post.collection == 'publications' %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
     {% elsif post.date %}
-      <p class="page__date">
-        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
-        <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">{{ post.date | default: '1900-01-01' | date: "%B %d, %Y" }}</time>
-      </p>
+      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> 
+      <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
@@ -53,11 +54,12 @@
       </p>
     {% endif %}
 
+    <!-- Links block -->
     {% assign links = "" %}
     {% if post.paperurl %}{% assign links = links | append: '<a href="' | append: post.paperurl | append: '">Download Paper</a>' %}{% endif %}
     {% if post.slidesurl %}{% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}{% assign links = links | append: '<a href="' | append: post.slidesurl | append: '">Download Slides</a>' %}{% endif %}
     {% if post.bibtexurl %}{% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}{% assign links = links | append: '<a href="' | append: post.bibtexurl | append: '">Download Bibtex</a>' %}{% endif %}
-    {% if post.artifacturl %}{% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}{% assign links = links | append: '<a href="' | append: post.artifacturl | append: '">Artifact / Code</a>' %}{% endif %}
+    {% if post.artifacturl %}{% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}{% assign links = links | append: '<a href="' | append: post.artifacturl | append: '">Artifact (Code)</a>' %}{% endif %}
     {% if post.videourl %}{% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}{% assign links = links | append: '<a href="' | append: post.videourl | append: '">Presentation Video</a>' %}{% endif %}
 
     {% if post.citation %}
