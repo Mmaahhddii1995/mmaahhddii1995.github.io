@@ -1,6 +1,3 @@
-
-
-
 ---
 title: "LARMix: Latency-Aware Routing in Mix Networks"
 collection: publications
