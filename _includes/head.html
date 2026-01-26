@@ -21,4 +21,12 @@
 <!-- Custom CSS to force white background and black text -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css">
 
+<!-- Force moon (dark mode) as default on page load -->
+<script>
+  if (!localStorage.getItem('theme')) {
+    document.documentElement.setAttribute('data-theme', 'dark');
+    localStorage.setItem('theme', 'dark');
+  }
+</script>
+
 <meta http-equiv="cleartype" content="on">
