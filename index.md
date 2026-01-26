@@ -1,5 +1,8 @@
+---
+layout: 
+title: About me
+---
 
-### About
 Mahdi Rahimi is currently in the final year of his PhD, which he began in June 2021 under the supervision of **Prof. Claudia Diaz** at **KU Leuven**, within the **COSIC research group**. His research focuses on the practicality and security of **anonymous communication systems**, particularly **mix networks (mixnets)**, as well as broader topics in **privacy-preserving systems** and **applied cryptography**.
 
 Prior to his PhD, Mahdi received a **Bachelor’s degree in Electrical Engineering** from **K. N. Toosi University of Technology** in 2018, specializing in telecommunication systems. He ranked **2nd among 125 students** in his class, which earned him admission to the **Master’s program in Cryptography and Secure Communication** at **Sharif University of Technology**, where he completed his Master’s degree in 2020, graduating **first in his class**. His Master’s thesis focused on **information-theoretic approaches to network security**.
