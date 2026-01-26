@@ -10,6 +10,7 @@ venue: 'Applied Cryptography and Network Security (ACNS)'
 slidesurl: 'http://mmaahhddii1995.github.io/files/PARSAN_Mix_slides.pdf'
 paperurl: 'http://mmaahhddii1995.github.io/files/PARSAN_Mix_paper.pdf'
 bibtexurl: 'http://mmaahhddii1995.github.io/files/PARSAN_Mix_bib.bib'
-citation: 'Rahimi, Mahdi. "PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks." In International Conference on Applied Cryptography and Network Security, pp. 159-188. Cham: Springer Nature Switzerland, 2025.'
+videourl: 'https://youtu.be/5KjB58Cxo5Y?si=iWStacyccl7PstyB'
+citation: 'M. Rahimi, "PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks." In International Conference on Applied Cryptography and Network Security, pp. 159-188. Cham: Springer Nature Switzerland, 2025.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
