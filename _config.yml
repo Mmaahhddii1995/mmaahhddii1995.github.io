@@ -78,9 +78,9 @@ author:
 publication_category:
   books:
     title: 'Books'
-  conference:
+  conferences:
     title: 'Conference Papers'
-  journal:
+  manuscripts:
     title: 'Journal Articles'
 
 # Site Settings
