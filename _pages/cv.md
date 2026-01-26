@@ -223,14 +223,14 @@ Network Computing and Applications (NCA)**, 2024.
 
 
 ## Academic Service
-- **Committee Member:** IMPACT2025 (co-located with NDSS2025)  
+- **Committee Member:** IMPACT2025 (co-located with NDSS 2025)  
 - **External Reviewer:**  
   - *ACM Transactions on Internet Technology* (2025)  
   - *IEEE Transactions on Network and Service Management (TNSM 2025)*  
 - **Session Chair:** CANS 2024, Cambridge  
 
 ## Invited Talks & Lectures
-- **Invited Lecturer:** Advanced Privacy Course, COSIC, KU Leuven (Winter 2023, 2024, 2025, 2026)  
-- **Talk:** “Improved Performance and Security in Anonymous Communication Systems,” Amity Institute of Information Technology (AIIT)  July 2025.
-- **Seminar:** “Latency-Aware Routing in Mix Networks,” Security Group, Computer Science Department, University of Cambridge. September 2024.
+- **Invited Lecturer:** Advanced Privacy Course, COSIC, KU Leuven (Winter 2023, 2024, 2025, 2026). 
+- **Talk:** "Improved Performance and Security in Anonymous Communication Systems," Amity Institute of Information Technology (AIIT).  July, 2025.
+- **Seminar:** "Latency-Aware Routing in Mix Networks," Security Group, Computer Science Department, University of Cambridge. September, 2024.
 
