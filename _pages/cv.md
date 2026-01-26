@@ -68,44 +68,66 @@ Ranked **2nd** out of 125 students
   *PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks*,  
   **23rd International Conference on Applied Cryptography and Network Security (ACNS)**, 2025.  
   🏆 **Best Student Paper Award**  
-  [Slides](http://mmaahhddii1995.github.io/files/PARSAN_ACNS25_slides.pdf)
+  [Paper](http://mmaahhddii1995.github.io/files/PARSAN_Mix_paper.pdf) ·
+  [Slides](http://mmaahhddii1995.github.io/files/PARSAN_Mix_slides.pdf) ·
+  [Presentation](https://www.youtube.com/watch?v=5KjB58Cxo5Y) ·
+  [BibTeX](http://mmaahhddii1995.github.io/files/PARSAN_Mix_bib.bib)
 
 - **M. Rahimi**,  
   *LAMP: Lightweight Approaches for Latency Minimization in Mixnets with Practical Deployment Considerations*,  
   **Network and Distributed System Security Symposium (NDSS)**, 2025.  
-  [Slides](http://mmaahhddii1995.github.io/files/LAMP_NDSS25_slides.pdf)
+  [Paper](http://mmaahhddii1995.github.io/files/LAMP_paper.pdf) ·
+  [Slides](http://mmaahhddii1995.github.io/files/LAMP_slides.pdf) ·
+  [Presentation](https://www.youtube.com/watch?v=wxSrF8zcu9E) ·
+  [BibTeX](http://mmaahhddii1995.github.io/files/LAMP_bib.bib)
+
+  - **M. Rahimi**,  
+  *LARMix: Latency-Aware Routing in Mix Networks*,  
+  **Network and Distributed System Security Symposium (NDSS)**, 2024.  
+  [Paper](http://mmaahhddii1995.github.io/files/LARMix_paper.pdf) ·
+  [Slides](http://mmaahhddii1995.github.io/files/LARMix_slides.pdf) ·
+  [Presentation](https://www.youtube.com/watch?v=VdxLyab9d6k) ·
+  [BibTeX](http://mmaahhddii1995.github.io/files/LARMix_bib.bib)
 
 - **M. Rahimi**,  
   *LARMix++: Latency-Aware Routing in Mix Networks with Free Routes Topology*,  
   **23rd International Conference on Cryptology and Network Security (CANS)**, 2024.  
   ⭐ *Shortlisted for Best Paper*  
-  [Slides](http://mmaahhddii1995.github.io/files/LARMixpp_CANS24_slides.pdf)
+  [Paper](http://mmaahhddii1995.github.io/files/LARMix_plus_paper.pdf) ·
+  [Slides](http://mmaahhddii1995.github.io/files/LARMix_plus_slides.pdf) ·
+  [Presentation](https://youtu.be/LuaSF_4Qc1s?si=gelbospUPXHBAdbT) ·
+  [BibTeX](http://mmaahhddii1995.github.io/files/LARMix_plus_bib.bib)
 
-- **M. Rahimi**,  
-  *LARMix: Latency-Aware Routing in Mix Networks*,  
-  **Network and Distributed System Security Symposium (NDSS)**, 2024.  
-  [Slides](http://mmaahhddii1995.github.io/files/LARMix_NDSS24_slides.pdf)
+
 
 - **M. Rahimi**,  
   *CLAM: Client-Aware Routing in Mix Networks*,  
-  **IHMMSec**, 2024.
-
+  **Information Hiding and Multimedia Security (IHMMSec)**, 2024.
+  [Paper](http://mmaahhddii1995.github.io/files/CLAM_paper.pdf) ·
+  [Slides](http://mmaahhddii1995.github.io/files/CLAM_slides.pdf) ·
+  [BibTeX](http://mmaahhddii1995.github.io/files/CLAM_bib.bib)
 - **M. Rahimi**,  
   *MALARIA: Management of Low-Latency Routing Impact on Mix Network Anonymity*,  
-  **NCA**, 2024.
-
+  **International Symposium on
+Network Computing and Applications (NCA)**, 2024.
+  [Paper](http://mmaahhddii1995.github.io/files/MALARIA_paper.pdf) ·
+  [Slides](http://mmaahhddii1995.github.io/files/MALARIA_slides.pdf) ·
+  [BibTeX](http://mmaahhddii1995.github.io/files/MALARIA_bib.bib)
 - **M. Rahimi**,  
   *MOCHA: Mixnet Optimization Considering Honest Client Anonymity*,  
-  **IHMMSec**, 2025.
-
+  **Information Hiding and Multimedia Security (IHMMSec)**, 2025.
+  [Paper](http://mmaahhddii1995.github.io/files/MOCHA_paper.pdf) ·
+  [Slides](http://mmaahhddii1995.github.io/files/MOCHA_slides.pdf) ·
+  [Presentation](https://www.youtube.com/watch?v=apVLTlbIr8I) ·
+  [BibTeX](http://mmaahhddii1995.github.io/files/MOCHA_bib.bib)
 ---
 ### Journal Publications
 
 - **K. Baghery, N. G. Bardeh, S. Khazaei, and M. Rahimi**,  
   *On Round-Optimal Computational VSS*,  
   **IACR Communications in Cryptology (CiC)**, 2025.  
-  [Paper](http://academicpages.github.io/files/VSS.pdf) ·
-  [BibTeX](http://academicpages.github.io/files/VSS_bib.bib)
+  [Paper](http://academicpages.github.io/files/vss_paper.pdf) ·
+  [BibTeX](http://academicpages.github.io/files/vss_bib.bib)
 
 ---
 
