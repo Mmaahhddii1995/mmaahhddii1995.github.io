@@ -9,6 +9,6 @@ venue: 'International Symposium on Network Computing and Applications (NCA)'
 slidesurl: 'http://mmaahhddii1995.github.io/files/MALARIA_slides.pdf'
 paperurl: 'http://mmaahhddii1995.github.io/files/MALARIA_paper.pdf'
 bibtexurl: 'http://mmaahhddii1995.github.io/files/MALARIA_bib.bib'
-citation: 'Rahimi, Mahdi. "Malaria: management of low-latency routing impact on mix network anonymity." In 2024 22nd International Symposium on Network Computing and Applications (NCA), pp. 193-202. IEEE, 2024.'
+citation: 'M. Rahimi, "MALARIA: Management of Low-Latency Routing Impact on Mix Network Anonymity." In 2024 22nd International Symposium on Network Computing and Applications (NCA), pp. 193-202. IEEE, 2024.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
