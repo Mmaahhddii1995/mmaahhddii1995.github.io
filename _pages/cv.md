@@ -114,6 +114,7 @@ Ranked **2nd** out of 125 students
   [Paper](http://mmaahhddii1995.github.io/files/CLAM_paper.pdf) ·
   [Slides](http://mmaahhddii1995.github.io/files/CLAM_slides.pdf) ·
   [BibTeX](http://mmaahhddii1995.github.io/files/CLAM_bib.bib)
+  
 - **M. Rahimi**,  
   *MALARIA: Management of Low-Latency Routing Impact on Mix Network Anonymity*,  
   **International Symposium on
@@ -121,6 +122,7 @@ Network Computing and Applications (NCA)**, 2024.
   [Paper](http://mmaahhddii1995.github.io/files/MALARIA_paper.pdf) ·
   [Slides](http://mmaahhddii1995.github.io/files/MALARIA_slides.pdf) ·
   [BibTeX](http://mmaahhddii1995.github.io/files/MALARIA_bib.bib)
+  
 - **M. Rahimi**,  
   *MOCHA: Mixnet Optimization Considering Honest Client Anonymity*,  
   **Information Hiding and Multimedia Security (IHMMSec)**, 2025.
@@ -128,6 +130,7 @@ Network Computing and Applications (NCA)**, 2024.
   [Slides](http://mmaahhddii1995.github.io/files/MOCHA_slides.pdf) ·
   [Presentation](https://www.youtube.com/watch?v=apVLTlbIr8I) ·
   [BibTeX](http://mmaahhddii1995.github.io/files/MOCHA_bib.bib)
+  
 ---
 ### Journal Publications
 
