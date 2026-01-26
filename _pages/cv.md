@@ -51,23 +51,72 @@ Ranked **2nd** out of 125 students
 
 ---
 
-## Selected Publications
+## Publications
 
-- **PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks**  
-  *Applied Cryptography and Network Security (ACNS)*, 2025  
-  **Best Student Paper Award**
 
-- **DP-Mix: Differentially Private Routing in Mix Networks**  
-  *Annual Computer Security Applications Conference (ACSAC)*, 2025
+### Peer-Reviewed Conference Publications
 
-- **LARMix++: Latency-Aware Routing in Mix Networks with Free Routes Topology**  
-  *Cryptology and Network Security (CANS)*, 2024  
-  *Shortlisted for Best Paper*
+- **M. Rahimi**,  
+  *DP-Mix: Differentially Private Routing in Mix Networks*,  
+  **41st Annual Computer Security Applications Conference (ACSAC)**, IEEE, 2025.  
+  [Paper](http://mmaahhddii1995.github.io/files/DP_Mix_paper.pdf) ·
+  [Slides](http://mmaahhddii1995.github.io/files/DP_Mix_slides.pdf) ·
+  [Presentation](https://youtu.be/K4gEQw0qYNw) ·
+  [BibTeX](http://mmaahhddii1995.github.io/files/DP_Mix_bib.bib)
 
-- **LAMP: Lightweight Approaches for Latency Minimization in Mixnets with Practical Deployment Considerations**  
-  *Network and Distributed System Security Symposium (NDSS)*, 2025
+- **M. Rahimi**,  
+  *PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks*,  
+  **23rd International Conference on Applied Cryptography and Network Security (ACNS)**, 2025.  
+  🏆 **Best Student Paper Award**  
+  [Slides](http://mmaahhddii1995.github.io/files/PARSAN_ACNS25_slides.pdf)
 
-(See the **Publications** page for the complete list.)
+- **M. Rahimi**,  
+  *LAMP: Lightweight Approaches for Latency Minimization in Mixnets with Practical Deployment Considerations*,  
+  **Network and Distributed System Security Symposium (NDSS)**, 2025.  
+  [Slides](http://mmaahhddii1995.github.io/files/LAMP_NDSS25_slides.pdf)
+
+- **M. Rahimi**,  
+  *LARMix++: Latency-Aware Routing in Mix Networks with Free Routes Topology*,  
+  **23rd International Conference on Cryptology and Network Security (CANS)**, 2024.  
+  ⭐ *Shortlisted for Best Paper*  
+  [Slides](http://mmaahhddii1995.github.io/files/LARMixpp_CANS24_slides.pdf)
+
+- **M. Rahimi**,  
+  *LARMix: Latency-Aware Routing in Mix Networks*,  
+  **Network and Distributed System Security Symposium (NDSS)**, 2024.  
+  [Slides](http://mmaahhddii1995.github.io/files/LARMix_NDSS24_slides.pdf)
+
+- **M. Rahimi**,  
+  *CLAM: Client-Aware Routing in Mix Networks*,  
+  **IHMMSec**, 2024.
+
+- **M. Rahimi**,  
+  *MALARIA: Management of Low-Latency Routing Impact on Mix Network Anonymity*,  
+  **NCA**, 2024.
+
+- **M. Rahimi**,  
+  *MOCHA: Mixnet Optimization Considering Honest Client Anonymity*,  
+  **IHMMSec**, 2025.
+
+---
+### Journal Publications
+
+- **K. Baghery, N. G. Bardeh, S. Khazaei, and M. Rahimi**,  
+  *On Round-Optimal Computational VSS*,  
+  **IACR Communications in Cryptology (CiC)**, 2025.  
+  [Paper](http://academicpages.github.io/files/VSS.pdf) ·
+  [BibTeX](http://academicpages.github.io/files/VSS_bib.bib)
+
+---
+
+
+### Journal Articles
+
+- **K. Baghery, N. G. Bardeh, S. Khazaei, M. Rahimi**,  
+  *On Round-Optimal Computational Verifiable Secret Sharing*,  
+  **IACR Communications in Cryptology (CiC)**, 2025.  
+  [Paper](http://academicpages.github.io/files/VSS.pdf)
+
 
 ---
 
