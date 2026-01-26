@@ -14,22 +14,18 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-
+    
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img
-          src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}"
-          alt=""
-        >
+        <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="">
       </div>
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>
+        <a href="{{ post.link }}">{{ title }}</a> 
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-          <i class="fa fa-link" aria-hidden="true"></i>
-          <span class="sr-only">Permalink</span>
+          <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span>
         </a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
@@ -37,25 +33,17 @@
     </h2>
 
     {% if post.read_time %}
-      <p class="page__meta">
-        <i class="fa fa-clock" aria-hidden="true"></i>
-        {% include read-time.html %}
-      </p>
+      <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
     {% if post.collection == 'teaching' %}
-      <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+      <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
     {% elsif post.collection == 'publications' %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
     {% elsif post.date %}
       <p class="page__date">
-        <strong>
-          <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
-          {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}
-        </strong>
-        <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">
-          {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
-        </time>
+        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
       </p>
     {% endif %}
 
@@ -63,40 +51,21 @@
       <p class="archive__item-excerpt" itemprop="description">
         {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
         {% if site.read_more == 'enabled' %}
-          <strong>
-            <a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a>
-          </strong>
+          <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
         {% endif %}
       </p>
     {% endif %}
 
-    {%- comment -%} Citation + download links {%- endcomment -%}
-    {% if post.citation or post.paperurl or post.slidesurl or post.bibtexurl %}
+    {% comment %} Publications links block {% endcomment %}
+    {% if post.citation or post.paperurl or post.slidesurl or post.bibtexurl or post.videourl %}
       <p>
-        {% if post.citation %}
-          <strong>Citation:</strong> {{ post.citation }}<br />
-        {% endif %}
-
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}">Download Paper</a>
-        {% endif %}
-
-        {% if post.slidesurl %}
-          {% if post.paperurl %} | {% endif %}
-          <a href="{{ post.slidesurl }}">Download Slides</a>
-        {% endif %}
-
-        {% if post.bibtexurl %}
-          {% if post.paperurl or post.slidesurl %} | {% endif %}
-          <a href="{{ post.bibtexurl }}">Download Bibtex</a>
-        {% endif %}
-      </p>
-    {% endif %}
-
-    {%- comment -%} Presentation video (independent) {%- endcomment -%}
-    {% if post.videourl %}
-      <p>
-        <a href="{{ post.videourl }}">Presentation Video</a>
+        {% if post.citation %}Citation: {{ post.citation }}<br />{% endif %}
+        {% assign links = "" %}
+        {% if post.paperurl %}{% assign links = links | append: '<a href="' | append: post.paperurl | append: '">Download Paper</a>' %}{% endif %}
+        {% if post.slidesurl %}{% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}{% assign links = links | append: '<a href="' | append: post.slidesurl | append: '">Download Slides</a>' %}{% endif %}
+        {% if post.bibtexurl %}{% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}{% assign links = links | append: '<a href="' | append: post.bibtexurl | append: '">Download Bibtex</a>' %}{% endif %}
+        {% if post.videourl %}{% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}{% assign links = links | append: '<a href="' | append: post.videourl | append: '">Presentation Video</a>' %}{% endif %}
+        {{ links | raw }}
       </p>
     {% endif %}
 
