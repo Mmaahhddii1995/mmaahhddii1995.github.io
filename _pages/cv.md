@@ -76,7 +76,7 @@ Ranked **2nd** out of 125 students
 - **K. Baghery, N. Knapen, G. Nicolas, and M. Rahimi**,  
   *Pre-constructed Publicly Verifiable Secret Sharing and Applications*,  
   **23rd International Conference on Applied Cryptography and Network Security (ACNS)**, 2025.   
-  [Paper](http://mmaahhddii1995.github.io/files/PVSS_paper.pdf) ·
+  [Paper](http://mmaahhddii1995.github.io/files/PVSS.pdf) ·
   [Slides](http://mmaahhddii1995.github.io/files/PVSS_slides.pdf) ·
   [BibTeX](http://mmaahhddii1995.github.io/files/PVSS_bib.bib)
 
@@ -214,8 +214,23 @@ Network Computing and Applications (NCA)**, 2024.
 
 ---
 
-## Academic Service & Outreach
-
-- Reviewer for major security and privacy conferences  
+## Academic Outreach 
+- Poster presentation to the **External Strategic Advisory Board**, ESAT, February 2026
+  
 - Poster presentation to the **International Strategic Advisory Board**,  
   Cybersecurity Research Program Flanders (CRPF), COSIC, October 2025
+
+
+
+  ## Academic Service
+- **Committee Member:** IMPACT2025 (co-located with NDSS2025)  
+- **External Reviewer:**  
+  - *ACM Transactions on Internet Technology* (2025)  
+  - *IEEE Transactions on Network and Service Management (TNSM 2025)*  
+- **Session Chair:** CANS 2024, Cambridge  
+
+## Invited Talks & Lectures
+- **Invited Lecturer:** Advanced Privacy Course, COSIC, KU Leuven (Winter 2023, 2024, 2026)  
+- **Talk:** “Improved Performance and Security in Anonymous Communication Systems,” Amity Institute of Information Technology (AIIT)  
+- **Seminar:** “Latency-Aware Routing in Mix Networks,” Security Group, Computer Science Department, University of Cambridge  
+
