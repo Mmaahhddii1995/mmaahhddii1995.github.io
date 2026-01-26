@@ -73,7 +73,15 @@ Ranked **2nd** out of 125 students
   [Presentation](https://www.youtube.com/watch?v=5KjB58Cxo5Y) ·
   [BibTeX](http://mmaahhddii1995.github.io/files/PARSAN_Mix_bib.bib)
 
-- **M. Rahimi**,  
+- **K. Baghery, N. Knapen, G. Nicolas, and M. Rahimi**,  
+  *Pre-constructed Publicly Verifiable Secret Sharing and Applications*,  
+  **23rd International Conference on Applied Cryptography and Network Security (ACNS)**, 2025.   
+  [Paper](http://mmaahhddii1995.github.io/files/PVSS_paper.pdf) ·
+  [Slides](http://mmaahhddii1995.github.io/files/PVSS_slides.pdf) ·
+  [BibTeX](http://mmaahhddii1995.github.io/files/PVSS_bib.bib)
+
+
+- **M. Rahimi, P. Kumar, and C. Díaz**,  
   *LAMP: Lightweight Approaches for Latency Minimization in Mixnets with Practical Deployment Considerations*,  
   **Network and Distributed System Security Symposium (NDSS)**, 2025.  
   [Paper](http://mmaahhddii1995.github.io/files/LAMP_paper.pdf) ·
@@ -81,7 +89,7 @@ Ranked **2nd** out of 125 students
   [Presentation](https://www.youtube.com/watch?v=wxSrF8zcu9E) ·
   [BibTeX](http://mmaahhddii1995.github.io/files/LAMP_bib.bib)
 
-  - **M. Rahimi**,  
+- **M. Rahimi, P. Kumar, and C. Díaz**,  
   *LARMix: Latency-Aware Routing in Mix Networks*,  
   **Network and Distributed System Security Symposium (NDSS)**, 2024.  
   [Paper](http://mmaahhddii1995.github.io/files/LARMix_paper.pdf) ·
@@ -126,8 +134,8 @@ Network Computing and Applications (NCA)**, 2024.
 - **K. Baghery, N. G. Bardeh, S. Khazaei, and M. Rahimi**,  
   *On Round-Optimal Computational VSS*,  
   **IACR Communications in Cryptology (CiC)**, 2025.  
-  [Paper](http://academicpages.github.io/files/vss_paper.pdf) ·
-  [BibTeX](http://academicpages.github.io/files/vss_bib.bib)
+  [Paper](http://mmaahhddii1995.github.io/files/vss_paper.pdf) ·
+  [BibTeX](http://mmaahhddii1995.github.io/files/vss_bib.bib)
 
 ---
 
