@@ -23,6 +23,7 @@ venue: 'Network and Distributed System Security (NDSS) Symposium'
 slidesurl: 'http://mmaahhddii1995.github.io/files/LARMix_slides.pdf'
 paperurl: 'http://mmaahhddii1995.github.io/files/LARMix_paper.pdf'
 bibtexurl: 'http://mmaahhddii1995.github.io/files/LARMix_bib.bib'
+artifacturl: 'https://github.com/larmix/larmix'
 videourl: 'https://youtu.be/VdxLyab9d6k?si=Nve5wt0T69JrhqF0'
 citation: 'M. Rahimi, P. Kumar, and C. Díaz, “LARMix: Latency-Aware Routing in Mix Networks,” in NDSS 2024: 31st Symposium on Network and Distributed System Security, Internet Society.'
 ---
