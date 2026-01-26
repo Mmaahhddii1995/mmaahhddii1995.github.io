@@ -1,0 +1,19 @@
+/* Force permanent white background and black text */
+:root {
+  --color-background: #ffffff !important;
+  --color-text: #000000 !important;
+}
+
+body, .main-content, .markdown-body, .masthead, .masthead__inner-wrap, .masthead__menu {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+a, h1, h2, h3, h4, h5, h6 {
+  color: #000000 !important;
+}
+
+pre, code {
+  background-color: #f9f9f9 !important;
+  color: #000000 !important;
+}
