@@ -10,6 +10,6 @@ slidesurl: 'http://mmaahhddii1995.github.io/files/MOCHA_slides.pdf'
 paperurl: 'http://mmaahhddii1995.github.io/files/MOCHA_paper.pdf'
 bibtexurl: 'http://mmaahhddii1995.github.io/files/MOCHA_bib.bib'
 videourl: 'https://youtu.be/apVLTlbIr8I'
-citation: 'M, Rahimi. "MOCHA: Mixnet Optimization Considering Honest Client Anonymity." In Proceedings of the ACM Workshop on Information Hiding and Multimedia Security, pp. 98-107. 2025.'
+citation: 'M. Rahimi, "MOCHA: Mixnet Optimization Considering Honest Client Anonymity." In Proceedings of the ACM Workshop on Information Hiding and Multimedia Security, pp. 98-107. 2025.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
