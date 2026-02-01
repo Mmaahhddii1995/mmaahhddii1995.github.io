@@ -71,9 +71,8 @@ Responsibilities include organizing exercise sessions, supervising and mentoring
 **Date:** February 5<sup>th</sup>, 2026  
 **Link:** [View Poster (PDF)](http://mmaahhddii1995.github.io/files/poster_mahdi_Feb_2026.pdf)
 
-### 📄 Conference Presentations
+### 📄 Paper Presentations
 
-- **Presented Paper:**  
   _“DP-Mix: Differentially Private Routing in Mix Networks”_  
   Presented at the **41st Annual Computer Security Applications Conference (ACSAC)**, Hawaii, December 2025.
 
