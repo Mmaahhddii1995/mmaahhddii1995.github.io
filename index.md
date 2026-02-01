@@ -63,7 +63,14 @@ Responsibilities include organizing exercise sessions, supervising and mentoring
 
 ---
 ## Recent News
-  
+
+### 🧾 Poster Presentation
+
+**Title:** _Enhancing Applicability of Mix Networks_  
+**Event:** KU Leuven ESAT Department — External Advisory Board Meeting  
+**Date:** February 5<sup>th</sup>, 2026  
+**Link:** [View Poster (PDF)](http://mmaahhddii1995.github.io/files/poster_mahdi_Feb_2026.pdf)
+
 - **Presented Paper:**  
   "DP-Mix: Differentially Private Routing in Mix Networks" at the 41st ACSAC, Hawaii, December 2025.
 
