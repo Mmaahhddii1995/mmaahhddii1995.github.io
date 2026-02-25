@@ -36,7 +36,7 @@ Network and Distributed System Security (NDSS) Symposium, San Diego, California.
 
 
 ## August 2025
-- **Acepted Paper:**  
+- **Accepted Paper:**  
   "On Round-Optimal Computational VSS",  IACR Communications in Cryptology 2025.
   
 
