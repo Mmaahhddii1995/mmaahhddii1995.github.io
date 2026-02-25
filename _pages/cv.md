@@ -225,9 +225,10 @@ Network Computing and Applications (NCA)**, 2024.
 
 - **Best Student Paper Award**, ACNS 2025  
 - **Best Paper Shortlist**, CANS 2024  
-- Ranked **1st**, MSc, Sharif University of Technology (2020)  
+- Ranked **1st**, MSc, Sharif University of Technology (2020)
+- Member, **Iran National Elites Foundation** (2018) 
 - Ranked **1st**, BSc, K. N. Toosi University of Technology (2017)  
-- Member, **Iran National Elites Foundation** (2018)
+
 - Ranked among the **top 0.8%** in Iran’s National University Entrance Exam for Undergraduate Studies, among
 more than 223,000 students (2014)
 
