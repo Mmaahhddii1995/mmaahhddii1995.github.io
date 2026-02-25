@@ -25,13 +25,16 @@ permalink: /students/
 
 ## Summer Internship Supervision
 - **Alexis Cao**, *On Mix Network Security Analysis*, COSIC, KU Leuven, **2025**
+-  **Amir Hossein Ravan Nakhjavani**, *Long-Term Exposure in
+Mixnets: From Theory to Practice*, COSIC, KU Leuven, **2026**
 
 ---
 
 ## PhD Supervision
 - **Heng Zhang**, *Encrypted Traffic Classification on Internet for Improving Services*,  
   COSIC, KU Leuven — **Daily supervision**, **2025–2026**
-
+- **Pablo Sánchez**, *traffic fingerprinting against the Nym
+mixnet*,  COSIC, KU Leuven — **Daily supervision**, **2026–2027**
 ---
 
 ## Teaching Experience
