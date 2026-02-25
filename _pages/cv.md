@@ -215,6 +215,7 @@ Network Computing and Applications (NCA)**, 2024.
 **Internship Supervision**  
 - Alexis Cao, Summer 2025
 - Amir Hossein Ravan Nakhjavani, Summer 2026
+  
 **Teaching**  
 - Lecturer, *Advanced Privacy*, COSIC, KU Leuven (Winters 2023–2026)
 
