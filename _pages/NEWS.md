@@ -61,6 +61,7 @@ Network and Distributed System Security (NDSS) Symposium, San Diego, California.
 - **Presented Paper:**  
   "LAMP: Lightweight Approaches for Latency Minimization in Mixnets with Practical Deployment Considerations" at NDSS 2025, in collaboration with Piyush Kumar Sharma and Claudia Diaz.  
 
+<img width="3629" height="1475" alt="image" src="https://github.com/user-attachments/assets/ff4d0356-0793-41f0-88ac-61b875c6df1c" />
 
 
 
@@ -68,15 +69,18 @@ Network and Distributed System Security (NDSS) Symposium, San Diego, California.
 - **Presented Paper:**  
   "MALARIA: Management of Low-Latency Routing
 Impact on Mix Network Anonymity" at the NCA'24.
+<img width="1522" height="993" alt="image" src="https://github.com/user-attachments/assets/c916c768-942c-416e-b801-ba0a3edac43c" />
 
 ## September 2024
 - **Presented Paper:**  
   "LARMix++: Latency-Aware Routing in Mix Networks with Free Routes Topology" at the CANS'24.
+<img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/9d58b30f-68a1-477e-a070-5cadbf9e48b0" />
 
 ## June 2024
 - **Presented Paper:**  
   "CLAM: Client-Aware Routing in Mix Networks" at the IH&MMSec'24.
 
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/617900a3-608c-4546-bfec-64351f6d4d93" />
 
 
 ## February 2024
