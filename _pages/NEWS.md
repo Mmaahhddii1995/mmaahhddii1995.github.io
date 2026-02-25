@@ -81,4 +81,7 @@ Impact on Mix Network Anonymity" at the NCA'24.
 
 ## February 2024
 - **Presented Paper:**  
-  "LARMix: Latency-Aware Routing in Mix Networks" at NDSS 2024, in collaboration with Piyush Kumar Sharma and Claudia Diaz.  
+  "LARMix: Latency-Aware Routing in Mix Networks" at NDSS 2024, in collaboration with Piyush Kumar Sharma and Claudia Diaz.
+
+  <img width="3445" height="1482" alt="image" src="https://github.com/user-attachments/assets/e0b84bc2-2a08-4f96-b2e3-9088ec6afd89" />
+
