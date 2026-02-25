@@ -64,6 +64,17 @@ Responsibilities include organizing exercise sessions, supervising and mentoring
 ---
 ## Recent News
 
+
+## February 2026
+- **Two papers accepted in NDSS 2026:**
+ - "When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks" at the 33rd 
+Network and Distributed System Security (NDSS) Symposium, San Diego, California.
+
+  - "OptiMix: Scalable and Distributed Approaches for Latency Optimization in Modern Mixnets" at the 33rd 
+Network and Distributed System Security (NDSS) Symposium, San Diego, California.
+
+
+
 ### 🧾 Poster Presentation
 
 **Title:** _Enhancing Applicability of Mix Networks_  
