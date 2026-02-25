@@ -210,7 +210,8 @@ Network Computing and Applications (NCA)**, 2024.
 
 **PhD Supervision**  
 - Daily supervision of Heng Zhang (2025–2026)
-
+- Daily supervision of Pablo Sánchez (2026–2027)
+  
 **Internship Supervision**  
 - Alexis Cao, Summer 2025
 - Amir Hossein Ravan Nakhjavani, Summer 2026
