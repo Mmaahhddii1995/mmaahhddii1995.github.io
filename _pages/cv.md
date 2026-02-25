@@ -64,7 +64,7 @@ Ranked **2nd** out of 125 students
   [Paper](http://mmaahhddii1995.github.io/files/WhenMixnetsFail.pdf) ·
   [BibTeX](http://mmaahhddii1995.github.io/files/WhenMixnetsFail_bib.bib)
 
-  - **M. Rahimi**,  
+- **M. Rahimi**,  
   *OptiMix: Scalable and Distributed Approaches for Latency Optimization in Modern Mixnets*,  
   **Network and Distributed System Security Symposium (NDSS)**, 2026.  
   [Paper](http://mmaahhddii1995.github.io/files/OptiMix.pdf) ·
