@@ -56,6 +56,21 @@ Ranked **2nd** out of 125 students
 
 ### Peer-Reviewed Conference Publications
 
+
+
+- **M. Rahimi**,  
+  *When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks*,  
+  **Network and Distributed System Security Symposium (NDSS)**, 2026.  
+  [Paper](http://mmaahhddii1995.github.io/files/WhenMixnetsFail.pdf) ·
+  [BibTeX](http://mmaahhddii1995.github.io/files/WhenMixnetsFail_bib.bib)
+
+  - **M. Rahimi**,  
+  *OptiMix: Scalable and Distributed Approaches for Latency Optimization in Modern Mixnets*,  
+  **Network and Distributed System Security Symposium (NDSS)**, 2026.  
+  [Paper](http://mmaahhddii1995.github.io/files/OptiMix.pdf) ·
+  [BibTeX](http://mmaahhddii1995.github.io/files/OptiMix_bib.bib)
+
+
 - **M. Rahimi**,  
   *DP-Mix: Differentially Private Routing in Mix Networks*,  
   **41st Annual Computer Security Applications Conference (ACSAC)**, IEEE, 2025.  
