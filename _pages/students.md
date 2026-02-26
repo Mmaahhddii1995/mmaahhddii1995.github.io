@@ -34,7 +34,7 @@ Mixnets: From Theory to Practice*, COSIC, KU Leuven, **2026**
 - **Heng Zhang**, *Encrypted Traffic Classification on Internet for Improving Services*,  
   COSIC, KU Leuven — **Daily supervision**, **2025–2026**
 - **Pablo Sánchez**, Traffic Fingerprinting Against Mixnets*,  COSIC, KU Leuven — **Daily supervision**, **2026–2027**
-- 
+
 ---
 
 ## Teaching Experience
