@@ -74,7 +74,8 @@ Impact on Mix Network Anonymity" at the NCA'24.
 ## September 2024
 - **Presented Paper:**  
   "LARMix++: Latency-Aware Routing in Mix Networks with Free Routes Topology" at the CANS'24.
-<img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/9d58b30f-68a1-477e-a070-5cadbf9e48b0" />
+<img width="1435" height="1033" alt="image" src="https://github.com/user-attachments/assets/2f8d7ddf-a1c6-4d2e-bf29-fe081cefa071" />
+
 
 ## June 2024
 - **Presented Paper:**  
