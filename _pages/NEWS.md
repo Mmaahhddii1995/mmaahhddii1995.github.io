@@ -15,10 +15,10 @@ permalink: /NEWS/
 ## February 2026
 - **Two papers accepted in NDSS 2026:**
   
-  _ "When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks" at the 33rd 
+  - "When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks" at the 33rd 
 Network and Distributed System Security (NDSS) Symposium, San Diego, California.
 
- _ "OptiMix: Scalable and Distributed Approaches for Latency Optimization in Modern Mixnets" at the 33rd 
+ - "OptiMix: Scalable and Distributed Approaches for Latency Optimization in Modern Mixnets" at the 33rd 
 Network and Distributed System Security (NDSS) Symposium, San Diego, California.
 
 
