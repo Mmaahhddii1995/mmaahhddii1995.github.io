@@ -7,12 +7,18 @@ permalink: /NEWS/
 
 
 
-
-
+## March 2026
+- **A paper accepted at the IEEE International Conference on Multimedia and Expo (ICME) 2026.**
 
 
 
 ## February 2026
+
+- **Award:**  
+  The paper ``When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks'' received the **Distinguished Artifact Award** at NDSS 2026, San Diego, California.
+
+  <img width="501" height="350" alt="image" src="https://github.com/user-attachments/assets/b079510f-1517-4612-9f7b-661cefc8af28" />
+  
 - **Two papers accepted in NDSS 2026:**
   
   - "When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks" at the 33rd 
