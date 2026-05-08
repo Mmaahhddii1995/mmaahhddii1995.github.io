@@ -79,7 +79,7 @@ Responsibilities include organizing exercise sessions, supervising and mentoring
 
 
 - **Award:**  
-  The paper ``When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks'' received the **Distinguished Artifact Award** at NDSS 2026, San Diego, California.
+  The paper "When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks" received the **Distinguished Artifact Award** at NDSS 2026, San Diego, California.
 
   <img width="501" height="350" alt="image" src="https://github.com/user-attachments/assets/b079510f-1517-4612-9f7b-661cefc8af28" />
 
