@@ -12,6 +12,9 @@ Prior to his PhD, Mahdi received a **Bachelor’s degree in Electrical Engineeri
 - Applied Cryptography  
 
 ### Awards & Honors
+-  **Distinguished Artifact Award**, NDSS 2026:
+  “When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks”, February 2026, San Diego, California.
+
 - **Best Student Paper Award**, ACNS 2025:  
   “PARSAN-Mix: Packet-Aware Routing and Shuffling with Additional Noise for Latency Optimization in Mix Networks”, June 2025, Munich, Germany.  
 
@@ -65,8 +68,22 @@ Responsibilities include organizing exercise sessions, supervising and mentoring
 ---
 ## Recent News
 
+## March 2026
+- **A paper accepted at the IEEE International Conference on Multimedia and Expo (ICME) 2026.**
+
+
+
+
 
 ## February 2026
+
+
+- **Award:**  
+  The paper ``When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks'' received the **Distinguished Artifact Award** at NDSS 2026, San Diego, California.
+
+  <img width="501" height="350" alt="image" src="https://github.com/user-attachments/assets/b079510f-1517-4612-9f7b-661cefc8af28" />
+
+  
 - **Two papers accepted in NDSS 2026:**
   - "When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks" at the 33rd 
 Network and Distributed System Security (NDSS) Symposium, San Diego, California.
