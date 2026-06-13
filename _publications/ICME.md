@@ -8,8 +8,7 @@ excerpt: 'Although the adoption of encryption protocols is essential for ensurin
 date: 2026-6-26
 venue: 'IEEE International Conference on Multimedia and Expo (ICME)'
 
-citation: 'H. Zhang, G. Xiong, G. Gou, Z. Li, W. Xia, G. Zhong, Z. Chen, H. Wu,
-and M. Rahimi, "FlowContrast: Few-Shot Multimedia Traffic Representation Learning in LEO Satellite Networks," in ICME 2026: IEEE International Conference on Multimedia and Expo.'
+citation: 'H. Zhang, G. Xiong, G. Gou, Z. Li, W. Xia, Z. Chen, H. Li, and M.Rahimi, "FlowContrast: Few-Shot Multimedia Traffic Representation Learning in LEO Satellite Networks," in ICME 2026: IEEE International Conference on Multimedia and Expo.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
 
