@@ -57,10 +57,14 @@ Ranked **2nd** out of 125 students
 ### Peer-Reviewed Conference Publications
 
 
+- **H. Zhang, G. Xiong, G. Gou, Z. Li, W. Xia, Z. Chen, H. Li, and M.Rahimi**,  
+  *FlowContrast: Few-Shot Multimedia Traffic Representation Learning in LEO Satellite Networks*,  
+  **in Proceedings of the 23rd IEEE International Conference on Multimedia and Expo (ICME 2026)**, 2026.  
 
 - **M. Rahimi**,  
   *When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks*,  
-  **Network and Distributed System Security Symposium (NDSS)**, 2026.  
+  **Network and Distributed System Security Symposium (NDSS)**, 2026.
+  🏆 **Distinguished Artifact Award** 
   [Paper](http://mmaahhddii1995.github.io/files/WhenMixnetsFail.pdf) ·
   [BibTeX](http://mmaahhddii1995.github.io/files/WhenMixnetsFail_bib.bib)
 
