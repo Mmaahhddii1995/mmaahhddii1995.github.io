@@ -64,6 +64,7 @@ Ranked **2nd** out of 125 students
 - **M. Rahimi**,  
   *When Mixnets Fail: Evaluating, Quantifying, and Mitigating the Impact of Adversarial Nodes in Mix Networks*,  
   **Network and Distributed System Security Symposium (NDSS)**, 2026.
+  
   🏆 **Distinguished Artifact Award** 
   [Paper](http://mmaahhddii1995.github.io/files/WhenMixnetsFail.pdf) ·
   [BibTeX](http://mmaahhddii1995.github.io/files/WhenMixnetsFail_bib.bib)
