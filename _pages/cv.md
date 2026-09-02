@@ -40,7 +40,9 @@ My research lies at the intersection of **security, privacy, and society**, with
 
 **PhD in Computer Science**, COSIC, KU Leuven, 2021–2026
 Supervisor: Prof. Claudia Diaz
+
 Graduated with a PhD *summa cum laude*, with the congratulations of the Board of Examiners (awarded by KU Leuven only to the top 5% of doctorates)
+
 Thesis: *Latency Optimization and Anonymity Enhancement in Mix Networks*
 
 
