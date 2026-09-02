@@ -12,6 +12,8 @@ Prior to his PhD, Mahdi received a **Bachelor’s degree in Electrical Engineeri
 - Applied Cryptography  
 
 ### Awards & Honors
+- **Recipient of a 3-year FWO Postdoctoral Fellowship**, November 2026, Leuven, Belgium.
+
 -  **Graduated with a PhD summa cum laude with the congratulations of the Board of Examiners (awarded by KU Leuven only to the top 5% of doctorates)**, August 2026, Leuven, Belgium. 
   
 -  **Distinguished Artifact Award**, NDSS 2026:
