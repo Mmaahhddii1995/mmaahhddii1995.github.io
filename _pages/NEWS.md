@@ -6,6 +6,12 @@ permalink: /NEWS/
 
 
 
+## September 2026
+ - **A paper accepted at NDSS 2027.**
+
+## August 2026
+
+- **I graduated with a PhD from COSIC, KU Leuven, *summa cum laude*.**
 
 ## March 2026
 - **A paper accepted at the IEEE International Conference on Multimedia and Expo (ICME) 2026.**
