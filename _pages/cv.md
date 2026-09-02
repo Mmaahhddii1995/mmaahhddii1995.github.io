@@ -15,9 +15,10 @@ Affiliation: COSIC, Department of Electrical Engineering (ESAT), KU Leuven
 
 ## About
 
-Mahdi Rahimi is currently in the final year of his PhD, which he began in June 2021 under the supervision of **Prof. Claudia Díaz** at **KU Leuven**, within the **COSIC** research group. His research focuses on the practicality and security of anonymous communication systems—particularly **mix networks (mixnets)**—as well as broader topics in privacy-preserving systems and applied cryptography.
+**Mahdi Rahimi** is a postdoctoral researcher at the **COSIC research group, KU Leuven**, working on anonymous communication, mix networks, privacy-preserving systems, and applied cryptography. He is the recipient of a **3-year FWO Postdoctoral Fellowship**, starting in November 2026.
 
-Prior to his PhD, he received a **BSc in Electrical Engineering** from **K. N. Toosi University of Technology** in 2018 and an **MSc in Cryptography and Secure Communication** from **Sharif University of Technology** in 2020. His master’s thesis focused on **information-theoretic approaches to network security**.
+He received his PhD from KU Leuven in August 2026 under the supervision of **Prof. Claudia Diaz**, graduating *summa cum laude* with the congratulations of the Board of Examiners (awarded to the top 5% of KU Leuven doctorates). His PhD focused on **Latency Optimization and Anonymity Enhancement in Mix Networks**.
+During his PhD, he received the **Best Student Paper Award at ACNS 2025** and the **Distinguished Artifact Award at NDSS 2026**.
 
 ---
 
