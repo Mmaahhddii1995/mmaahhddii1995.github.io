@@ -29,7 +29,7 @@ Prior to his PhD, Mahdi received a **Bachelor’s degree in Electrical Engineeri
 
 - **Member of the Iran National Elites Foundation**, October 2018, Tehran, Iran.  
 
-- **Ranked 2nd** among 125 undergraduate Electrical Engineering students, K. N. Toosi University of Technology, November 2017, Tehran, Iran.
+- **Ranked 1st** among 125 undergraduate Electrical Engineering students, K. N. Toosi University of Technology, November 2017, Tehran, Iran.
 
 
 - Ranked among the **top 0.8%** in Iran’s National University Entrance Exam for Undergraduate Studies, among
