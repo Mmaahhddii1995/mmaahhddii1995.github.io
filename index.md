@@ -62,16 +62,25 @@ Responsibilities include organizing exercise sessions, supervising and mentoring
 
 ---
 ## Academic Service
-- **Committee Member:** IMPACT2025 (co-located with NDSS 2025)  
-- **External Reviewer:**  
-  - *ACM Transactions on Internet Technology* (2025)  
-  - *IEEE Transactions on Network and Service Management (TNSM 2025)*  
-- **Session Chair:** CANS 2024, Cambridge  
+
+* **2026:** USENIX Security '27, PETs '27 (External Reviewer), *IEEE Transactions on Network and Service Management (TNSM)*
+
+* **2025:** IMPACT 2025 (co-located with NDSS 2025), *ACM Transactions on Internet Technology*, *IEEE Transactions on Network and Service Management (TNSM)*
+
+* **2024:** Session Chair, CANS 2024, Cambridge
+
 
 ---
 
 ---
 ## Recent News
+
+## September 2026
+ - **A paper accepted at NDSS 2027.**
+
+## August 2026
+
+- **I graduated with a PhD from COSIC, KU Leuven, *summa cum laude*.**
 
 ## March 2026
 - **A paper accepted at the IEEE International Conference on Multimedia and Expo (ICME) 2026.**
