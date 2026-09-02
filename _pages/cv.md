@@ -38,9 +38,11 @@ My research lies at the intersection of **security, privacy, and society**, with
 
 ## Education
 
-**PhD in Computer Science**, KU Leuven, 2021–present  
-Supervisor: Prof. Claudia Díaz  
-Research Group: COSIC
+**PhD in Computer Science**, COSIC, KU Leuven, 2021–2026
+Supervisor: Prof. Claudia Diaz
+Graduated with a PhD *summa cum laude*, with the congratulations of the Board of Examiners (awarded by KU Leuven only to the top 5% of doctorates)
+Thesis: *Latency Optimization and Anonymity Enhancement in Mix Networks*
+
 
 **MSc in Cryptography and Secure Communication**, Sharif University of Technology, 2020  
 Ranked **1st** in class  
@@ -230,11 +232,13 @@ Network Computing and Applications (NCA)**, 2024.
 
 ## Honors & Awards
 
-- **Best Student Paper Award**, ACNS 2025  
-- **Best Paper Shortlist**, CANS 2024  
-- Ranked **1st**, MSc, Sharif University of Technology (2020)
-- Member, **Iran National Elites Foundation** (2018) 
-- Ranked **1st**, BSc, K. N. Toosi University of Technology (2017)  
+- **Recipient of a 3-year FWO Postdoctoral Fellowship** (2026)
+- **Graduated with a PhD *summa cum laude*, with the congratulations of the Board of Examiners** (2026)
+- **Best Student Paper Award**, ACNS 2025
+- **Best Paper Shortlist**, CANS 2024
+- **Ranked 1st**, MSc, Sharif University of Technology (2020)
+- **Member**, Iran National Elites Foundation (2018)
+- **Ranked 1st**, BSc, K. N. Toosi University of Technology (2017)
 
 - Ranked among the **top 0.8%** in Iran’s National University Entrance Exam for Undergraduate Studies, among
 more than 223,000 students (2014)
