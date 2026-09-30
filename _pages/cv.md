@@ -7,7 +7,7 @@ permalink: /cv/
 
 ## Mahdi Rahimi
 
-**PhD Researcher, COSIC – KU Leuven**  
+**Postdoctoral Researcher, COSIC – KU Leuven**  
 Email: [mahdi.rahimi@esat.kuleuven.be](mailto:mahdi.rahimi@esat.kuleuven.be)  
 Affiliation: COSIC, Department of Electrical Engineering (ESAT), KU Leuven  
 
