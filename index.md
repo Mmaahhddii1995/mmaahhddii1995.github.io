@@ -63,7 +63,7 @@ Responsibilities include organizing exercise sessions, supervising and mentoring
 ---
 ## Academic Service
 
-* **2026:** USENIX Security '27, PETs '27 (External Reviewer), *IEEE Transactions on Network and Service Management (TNSM)*
+* **2026-27:** USENIX Security '27, Euro S&P '27, PETs '27 (External Reviewer), *IEEE Transactions on Network and Service Management (TNSM)*
 
 * **2025:** IMPACT 2025 (co-located with NDSS 2025), *ACM Transactions on Internet Technology*, *IEEE Transactions on Network and Service Management (TNSM)*
 
